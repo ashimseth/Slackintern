@@ -33,6 +33,7 @@
   },
   "dependencies": {
     "async": "^1.4.1",
+    "node-slack-upload": "^1.1.1",
     "progress": "^1.1.8",
     "request": "^2.60.0",
     "slackbots": "^0.3.0",

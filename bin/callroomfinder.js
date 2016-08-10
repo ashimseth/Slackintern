@@ -1,6 +1,6 @@
 'use strict';
 
-var iBot1 = require('../lib/iBot');
+var iBot1 = require('../lib/Roomfinder');
 
 var token = process.env.BOT_API_KEY || require('../token');
 var name = process.env.BOT_NAME;
